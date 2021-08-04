@@ -1,5 +1,5 @@
 # ParsingData
-Tạo App sử dụng api lấy và phân tích dữ liệu từ 3 link  sử dụng thư viện Volley .
+Tạo App sử dụng api lấy và phân tích dữ liệu từ 3 link  sử dụng thư viện Volley rồi xem kết quả với Logcat.
 
 https://www.google.com/
 
